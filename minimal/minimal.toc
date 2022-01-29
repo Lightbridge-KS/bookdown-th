@@ -1,0 +1,10 @@
+\selectlanguage *{english}
+\contentsline {section}{\numberline {1}R Markdown (ภาษาไทย)}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Text formatting (การตั้งค่าอักษร)}{1}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Footnote (ฟุตโน้ต)}{1}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}Paragraph}{1}{subsection.1.3}%
+\contentsline {subsection}{\numberline {1.4}List}{2}{subsection.1.4}%
+\contentsline {subsection}{\numberline {1.5}Cross Reference}{2}{subsection.1.5}%
+\contentsline {subsection}{\numberline {1.6}รูปภาพ}{2}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}วิธีที่ 1 --- ใส่แบบ Markdown}{2}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}วิธีที่ 2 --- ใส่แบบ code chunk}{2}{subsubsection.1.6.2}%

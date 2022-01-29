@@ -21,6 +21,7 @@ here::i_am("minimal/minimal.Rmd")
 library(here)
 ```
 
+
 # R Markdown (ภาษาไทย) {#rmd-in-th}
 
 นี่คือตัวอย่างแบบง่ายสำหรับการใช้ \LaTeX ภาษาไทย
@@ -62,6 +63,8 @@ library(here)
 1.  สวัสดี
 2.  ชาวโลก
 
+
+
 ## Cross Reference
 
 ลองดูที่หัวข้อ \@ref(text-format) เพื่อการ format ตัวอักษรที่ดี และดูที่หัวข้อ [Footnote (ฟุตโน้ต)](#footnote) สำหรับการโน๊ตไว้ข้างล่าง
@@ -89,3 +92,5 @@ library(here)
 ```{r img-coffee, echo=FALSE, out.width="25%", fig.cap="(ref:coffee)", fig.align='center'}
 knitr::include_graphics(here("minimal/images/coffee.jpg"))
 ```
+
+
