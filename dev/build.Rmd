@@ -20,7 +20,6 @@ fs::dir_create(here("dev")) # Contain R-Markdown to develop
 fs::dir_create(here("minimal")) # Minimal R-Markdown in Thai
 # Contain TeX file to include as preamble or beforebody
 fs::dir_create(here("include-TeX")) 
-
 # fs::dir_create(here("my_data")) # Contain my private data
 # fs::dir_create(here("my_R")) # Contain my personal R script file 
 ```
