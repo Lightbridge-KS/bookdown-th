@@ -7,4 +7,4 @@
 \contentsline {subsection}{\numberline {1.5}Cross Reference}{2}{subsection.1.5}%
 \contentsline {subsection}{\numberline {1.6}รูปภาพ}{2}{subsection.1.6}%
 \contentsline {subsubsection}{\numberline {1.6.1}วิธีที่ 1 --- ใส่แบบ Markdown}{2}{subsubsection.1.6.1}%
-\contentsline {subsubsection}{\numberline {1.6.2}วิธีที่ 2 --- ใส่แบบ code chunk}{2}{subsubsection.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.2}วิธีที่ 2 --- ใส่แบบ code chunk}{3}{subsubsection.1.6.2}%

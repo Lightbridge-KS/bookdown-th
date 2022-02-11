@@ -62,6 +62,8 @@ library(here)
 
 1.  สวัสดี
 2.  ชาวโลก
+3.  ทุกท่าน
+4.  สบายดีหรือไม่
 
 
 
@@ -89,8 +91,9 @@ library(here)
 
 (ref:coffee) ภาพแสดงกาแฟดำกลิ่นหอมอร่อย น่ากินในช่วงเช้า
 
-```{r img-coffee, echo=FALSE, out.width="25%", fig.cap="(ref:coffee)", fig.align='center'}
+```{r img-coffee, echo=FALSE, out.width="30%", fig.cap="(ref:coffee)", fig.align='center'}
 knitr::include_graphics(here("minimal/images/coffee.jpg"))
 ```
+
 
 

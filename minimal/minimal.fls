@@ -927,7 +927,7 @@ INPUT /Users/kittipos/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbo
 INPUT /Users/kittipos/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT ./minimal.toc
 INPUT minimal.toc
-INPUT minimal.toc
+OUTPUT minimal.toc
 INPUT /Users/kittipos/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmmi10.tfm
 INPUT /Users/kittipos/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmmi7.tfm
 INPUT /Users/kittipos/Library/TinyTeX/texmf-dist/fonts/tfm/public/lm/lmmi5.tfm
@@ -937,7 +937,6 @@ INPUT /Users/kittipos/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbo
 INPUT /Users/kittipos/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT /Users/kittipos/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT /Users/kittipos/Library/TinyTeX/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
-OUTPUT minimal.toc
 OUTPUT minimal.xdv
 INPUT ./images/coffee.jpg
 INPUT ./images/coffee.jpg
